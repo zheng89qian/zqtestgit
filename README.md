@@ -1,2 +1,0 @@
-# zqtestgit
-zqtestgit
